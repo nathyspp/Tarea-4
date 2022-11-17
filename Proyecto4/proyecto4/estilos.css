@@ -1,0 +1,98 @@
+@charset "utf-8";
+/*
+   New Perspectives on HTML5 and CSS3, 7th Edition
+   Tutorial 3
+   Case Problem 2
+   
+   Style Sheet for Grids used in the Costume Expressions Front Page
+   Author: Nathaly Pelaez  
+   Date:  16/11/2022
+   
+   Filename: ce_grids.css
+
+*/
+*{
+   margin: 0px;
+   padding: 0 px;
+}
+
+
+
+
+/* Grid Rows Styles */
+.row {
+   width: 100%;
+   display: flex;
+   padding: 3px;
+}
+
+/* Grid Columns Styles */
+.column50cell, .column25cell{
+   padding: 2px;
+}
+.column80{
+   width: 80%;
+   padding: 2px;
+}
+.column20{
+   width: 20%;
+   padding: 2px
+}
+.column50{
+   width: 20%;
+   padding:2px;
+}
+.column100{
+width: 100%;
+padding: 2px;
+}
+.column33{
+   width: 33%;
+   padding: 2px;
+}
+.column67{
+   width: 67%;
+   padding: 2px;
+}
+.column25{
+   width: 25%;
+   padding: 2px;
+}
+.column75{
+   width: 75%;
+   padding: 2px;
+}
+.column40{
+   width:40%;
+   padding: 2px;
+}
+.column60{
+   width: 33%;
+   padding: 2px;
+}
+.column67{
+   width: 67%;
+   padding: 2px;
+}
+.column25{
+   width: 25%;
+   padding: 2px;
+}
+.column75{
+   width: 40%;
+   padding: 2px;
+}
+.column40{
+   width: 40%;
+   padding: 2px;
+}
+.olumn60{
+   width: 60%;
+   padding: 2px;
+}
+
+
+
+
+/* Grid Spacing Styles */
+
